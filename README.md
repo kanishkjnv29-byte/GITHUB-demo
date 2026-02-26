@@ -1,2 +1,3 @@
 # GITHUB-demo
 This is my 1st repository
+Author: Kanishk Sharma
